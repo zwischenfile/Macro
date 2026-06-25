@@ -1,0 +1,201 @@
+{
+  "profile_name": "Test",
+  "description": "",
+  "actions": [
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (954, 894)",
+      "x": 954,
+      "y": 894
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (954, 894)",
+      "x": 954,
+      "y": 894
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (1300, 982)",
+      "x": 1300,
+      "y": 982
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (1299, 982)",
+      "x": 1299,
+      "y": 982
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (1148, 903)",
+      "x": 1148,
+      "y": 903
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (1313, 984)",
+      "x": 1313,
+      "y": 984
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (1316, 984)",
+      "x": 1316,
+      "y": 984
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (1337, 626)",
+      "x": 1337,
+      "y": 626
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (1337, 626)",
+      "x": 1337,
+      "y": 626
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (885, 839)",
+      "x": 885,
+      "y": 839
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (1011, 960)",
+      "x": 1011,
+      "y": 960
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (1011, 960)",
+      "x": 1011,
+      "y": 960
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (1117, 691)",
+      "x": 1117,
+      "y": 691
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (1116, 691)",
+      "x": 1116,
+      "y": 691
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    },
+    {
+      "action": "click",
+      "button": "left",
+      "click_mode": "single",
+      "label": "클릭 (927, 680)",
+      "x": 927,
+      "y": 680
+    },
+    {
+      "action": "wait",
+      "label": "대기 3초",
+      "seconds": 3.0
+    }
+  ]
+}
