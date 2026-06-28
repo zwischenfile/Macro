@@ -1,6 +1,6 @@
 PyQt5>=5.15,<6
 keyboard>=0.13.5
-PyAutoGUI>=0.9.54
+pyautogui>=0.9.54
 pynput>=1.7.7
 pyperclip>=1.8.2
 Pillow>=10.0.0
